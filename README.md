@@ -1,6 +1,8 @@
 # hugo-notebox
 Note Boxes for Hugo using TailwindCSS
 
+I got the idea from [martignoni/hugo-notice](https://github.com/martignoni/hugo-notice), but somehow the i18n method didn't work well on my Hugo site, so I simplified it a bit and don't use i18n.
+
 You can use the format:
 
     {{< notebox warning >}}
