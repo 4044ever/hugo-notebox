@@ -31,7 +31,8 @@ For German: (you can add more languages easily)
     Das ist eine Warnung!
     {{< /notebox >}}
 
-![image](https://user-images.githubusercontent.com/3244771/167795973-54ae5493-3202-4e75-95f2-030ac3ddf7e0.png)
+![image](https://user-images.githubusercontent.com/3244771/168051739-effe2bb7-7e85-417d-add8-27812950d7fe.png)
+
 
 Precondition: You must have Hugo and TailwindCSS up and running.
 
